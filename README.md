@@ -1,5 +1,5 @@
 # Class-Agnostic Self-Supervised Learning for Image Angle Classification
-This is the official repository related to "Class-Agnostic Self-Supervised Learning for Image Angle Classification" (ICCAS 2023, Poster)
+This is the official repository related to "Class-Agnostic Self-Supervised Learning for Image Angle Classification" (ICCAS 2023)
 
 2023 23rd International Conference on Control, Automation and Systems (ICCAS): [Paper](https://ieeexplore.ieee.org/abstract/document/10317040)
 
