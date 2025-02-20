@@ -3,6 +3,8 @@ This is the official repository related to "Class-Agnostic Self-Supervised Learn
 
 2023 23rd International Conference on Control, Automation and Systems (ICCAS): [Paper](https://ieeexplore.ieee.org/abstract/document/10317040)
 
+Materials: [Presentation](Material/SSL_IAC_presentation.pdf)
+
 <img src="https://github.com/user-attachments/assets/e392fb17-c689-4cf0-8b01-ae4c91e56621" alt="teaser" style="width:50%;">
 
 ## Abstract
